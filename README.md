@@ -35,7 +35,7 @@ Criar um site básico com navegação entre páginas HTML sem o uso de JavaScrip
   <span>│── README.md</span>
 </div>
 
-Cada página deve conter um cabeçalho <header> com os links de navegação, um <h1> com o título principal e o conteúdo específico da página.
+Cada página deve conter um cabeçalho "header" com os links de navegação, um "h1" com o título principal e o conteúdo específico da página.
 
 ---
 
