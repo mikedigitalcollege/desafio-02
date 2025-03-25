@@ -8,7 +8,7 @@ Criar um site básico com navegação entre páginas HTML sem o uso de JavaScrip
 
 1. **Cabeçalho com navegação:**
 
-   - Criar um cabeçalho com links para as páginas: "Página Inicial", "Serviços", "Quem Somos" e "Contato".
+   - Criar um cabeçalho com links para as páginas: "Página Inicial", "Serviços" e "Contato".
    - Os links devem permitir a navegação entre as páginas corretamente.
 
 2. **Página Inicial (**\`\`**)**
@@ -20,13 +20,7 @@ Criar um site básico com navegação entre páginas HTML sem o uso de JavaScrip
    - Deve conter um título "Serviços".
    - Listar os serviços oferecidos usando a tag `<ul>` e `<li>`.
 
-4. **Página Quem Somos (**\`\`**)**
-
-   - Deve conter um título "Quem Somos".
-   - Inserir um subtítulo "Nossa História" e um parágrafo descritivo.
-   - Criar um link de navegação interna que leve diretamente ao subtítulo "Nossa História".
-
-5. **Página de Contato (**\`\`**)**
+4. **Página de Contato (**\`\`**)**
 
    - Deve conter um título "Contato".
    - Inserir um endereço de email e um número de telefone fictício.
