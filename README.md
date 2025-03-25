@@ -37,7 +37,6 @@ Criar um site básico com navegação entre páginas HTML sem o uso de JavaScrip
 /projeto/
 │── index.html
 │── servicos.html
-│── quem-somos.html
 │── contato.html
 │── README.md
 ```
