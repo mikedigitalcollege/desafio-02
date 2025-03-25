@@ -18,7 +18,7 @@ Criar um site básico com navegação entre páginas HTML sem o uso de JavaScrip
 3. _Página de Serviços (``)_
 
    - Deve conter um título "Serviços".
-   - Listar os serviços oferecidos usando a tag <ul> e <li>.
+   - Listar os serviços oferecidos usando a tag "ul" e "li".
 
 4. _Página de Contato (``)_
 
@@ -27,12 +27,12 @@ Criar um site básico com navegação entre páginas HTML sem o uso de JavaScrip
 
 ## Estrutura de Arquivos
 
-<div style="display: flex; gap: 10px;">
-  <span>/projeto/</span>
-  <span>│── index.html</span>
-  <span>│── servicos.html</span>
-  <span>│── contato.html</span>
-  <span>│── README.md</span>
+<div>
+  <span style="display: inline-block; margin-right: 10px;">/projeto/</span>
+  <span style="display: inline-block; margin-right: 10px;">│── index.html</span>
+  <span style="display: inline-block; margin-right: 10px;">│── servicos.html</span>
+  <span style="display: inline-block; margin-right: 10px;">│── contato.html</span>
+  <span style="display: inline-block; margin-right: 10px;">│── README.md</span>
 </div>
 
 Cada página deve conter um cabeçalho "header" com os links de navegação, um "h1" com o título principal e o conteúdo específico da página.
